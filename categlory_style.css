@@ -1,0 +1,113 @@
+/*.cate-product{
+	padding: 0;
+}*/
+.path{ margin-bottom: 20px;margin-top: 10px; }
+.path a{
+	text-decoration: none;
+	color: gray;
+	font-weight: bold;
+}
+.path a:hover{
+	color: black;
+	border-bottom: 2px solid #CD3333;
+}
+.path p {}
+.path span {font-size: 13px;}
+.path strong{ color: #CD3333;}
+.path strong:hover{ color: red; border-bottom: 2px solid #fff;}
+
+.cate-product .cate-item{
+	height: auto;
+	border-bottom: thin solid #eeeeee;
+	padding: 10px 0 10px 0;
+}
+
+.cate-product .cate-item .infor{
+	/*padding: 0;*/
+}
+.cate-product .cate-item .infor .image{
+	padding: 0px;
+}
+.cate-product .cate-item .infor .about{
+	padding-left: 10px;
+	font-size: 12px;
+}
+.cate-product .cate-item .infor .about a{
+	text-decoration: none;
+}
+.cate-product .cate-item .infor .about h4{
+	font-size: 15px;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+.cate-product .cate-item .infor .about strong{
+	color: gray;
+}
+.cate-product .cate-item .down{
+	padding: 10px;
+	font-size: 12px;
+	text-align: center;
+}
+
+.cate-product .cate-item .rating{
+	padding: 10px;
+	text-align: center;
+	/*font-size: 12px;*/
+}
+.cate-product .cate-item .rating p span{
+	font-size: 10px;
+	color: #d17581;
+}
+
+.pagination-centered{text-align: center;}
+
+
+.bkav{margin-bottom: 20px;margin-top: 10px;}
+.bkav h4 {color: #CD6839;}
+.bkav .bkav-item{ margin-bottom: 30px;}
+
+.bkav .bkav-item .infor a.tit{
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 17px;
+}
+.bkav .bkav-item .infor{
+	padding-right: 20px;
+}
+.bkav .bkav-item .infor p{
+	font-size: 12px;
+}
+.bkav .bkav-item .infor span{
+	font-weight: bold;
+	font-size: 20px;
+	color: #FF6633;
+	margin-left: 15px;
+	margin-right: 10px;
+}
+.bkav .bkav-item .infor button{
+	padding: 5px 13px 5px 13px;
+}
+.bkav .bkav-item .infor .btn-2{
+	margin-top: -5px;
+}
+.bkav .bkav-item .infor .pull-left a{
+	text-decoration: none;
+	font-size: 14px;
+	margin-left: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
